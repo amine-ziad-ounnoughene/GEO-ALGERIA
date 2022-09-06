@@ -33,6 +33,7 @@ start using it
   // get wilaya code (matricule)
   get_wilaya_code(String Wilaya) 
   
+  
   ```
 
 you can access the two dart files I used
@@ -116,5 +117,9 @@ here is the structure of the "wilayas_dairas_communes.dart" or "json/wilayas_dai
     }
   },
 ```
-
-
+## note
+I processed the original json files using process.py and manualy
+## Acknowledgements
+I got the json file from here
+ - [Algerian Cities](https://github.com/othmanus/algeria-cities)
+ 
