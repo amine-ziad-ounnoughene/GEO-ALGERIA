@@ -50,7 +50,7 @@ you can access the two dart files I used
     '-- pubspec.yaml
 ```
 
-here is the structure of the "wilayas_communes.dart" file
+here is the structure of the "wilayas_communes.dart" file or "json/wilayas_communes.json"
 
 ```json
   {
@@ -75,7 +75,7 @@ here is the structure of the "wilayas_communes.dart" file
  }
   
 ```
-here is the structure of the "wilayas_dairas_communes.dart"
+here is the structure of the "wilayas_dairas_communes.dart" or "json/wilayas_dairas_communes.json"
 
 ```json
 {
