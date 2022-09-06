@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library algeria_geography;
 
-export 'src/algeria_geography_base.dart';
+export 'src/geo_algeria_base.dart';
 
 // TODO: Export any libraries intended for clients of this package.
