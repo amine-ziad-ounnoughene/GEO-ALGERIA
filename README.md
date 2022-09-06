@@ -117,7 +117,7 @@ here is the structure of the "wilayas_dairas_communes.dart" or "json/wilayas_dai
     }
   },
 ```
-## note
+## Note
 I processed the original json files using process.py and manualy
 ## Acknowledgements
 I got the json file from here
