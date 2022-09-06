@@ -62,7 +62,6 @@ here is the structure of the "wilayas_communes.dart" file
       "wilaya_code": "15",
       "wilaya_name": "Tizi Ouzou"
     },
-    ...
     ]
   "In Guezzam": [
     {
@@ -72,7 +71,6 @@ here is the structure of the "wilayas_communes.dart" file
       "wilaya_code": "54",
       "wilaya_name": "In Guezzam"
     },
-    ...
     ]
  }
   
@@ -93,8 +91,6 @@ here is the structure of the "wilayas_dairas_communes.dart"
           "wilaya_name": "Tizi Ouzou"
         }
       ],
-      ...
-      ]
   },
  "In Guezzam": {
     "wilaya_code": 54,
