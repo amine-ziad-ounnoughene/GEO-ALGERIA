@@ -7,7 +7,7 @@ A dart package that helps developers working on Algerian geographical data and A
 
 
 ## Guide
-
+this package is still under devellopment.it hasnt been shared on pub.dev 
 add the dependency into the pubspec.yaml file 
 
 ```yaml
